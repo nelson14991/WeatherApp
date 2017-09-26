@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="daily">DAILY</string>
+    <string name="current">CURRENT</string>
+    <string name="hourly">Hourly</string>
+</resources>
